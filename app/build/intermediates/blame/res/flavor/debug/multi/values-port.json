@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeFlavorDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\-\\.android\\build-cache\\a3bea053dc98e020319a6cd88e900028654b0e26\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

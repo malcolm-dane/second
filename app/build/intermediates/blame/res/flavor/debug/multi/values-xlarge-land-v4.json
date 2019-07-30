@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeFlavorDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\-\\.android\\build-cache\\a3bea053dc98e020319a6cd88e900028654b0e26\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 63,
+                        "endOffset": 347
+                    }
+                }
+            }
+        ]
+    }
+]

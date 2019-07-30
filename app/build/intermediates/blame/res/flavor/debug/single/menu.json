@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\flavor\\debug\\menu\\menu_tabbed.xml",
+        "source": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\menu\\menu_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\flavor\\debug\\menu\\menu_better_version.xml",
+        "source": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\menu\\menu_better_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\flavor\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\flavor\\debug\\menu\\main2.xml",
+        "source": "C:\\Users\\-\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\menu\\main2.xml"
+    }
+]
